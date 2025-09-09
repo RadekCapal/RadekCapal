@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on FIT VUT... level 4/6
+- 🔭 I’m currently working on FIT VUT... level 5/6
 
 <!--
 **RadekCapal/RadekCapal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

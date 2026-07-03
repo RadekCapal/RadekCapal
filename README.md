@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on FIT VUT... level 6/6
+🎓 Bc. graduate from FIT VUT (2023–2026)  
+📚 pursuing Mgr. in Cybersecurity at FIT VUT (2026–2028)
+
+### 🔗 Selected projects
+
+- [Network Session Fingerprinting](https://github.com/RadekCapal/network-session-fingerprinting)
+- [FIT VUT – Bachelor's overview](https://github.com/RadekCapal/FIT_VUT)
 
 <!--
 **RadekCapal/RadekCapal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
